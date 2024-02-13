@@ -8,3 +8,11 @@ Our lab has a bank of 3000 placental samples from 8 different hospitals, includi
 To do this, we will use pandas DataFrame.
 
 This would be very useful to our research aims as we have recently done it manually and spent many hours finding the right samples.
+
+Our web pages:
+
+Golda https://github.com/goldahg
+
+Doreen https://github.com/doreenpa
+
+Stav https://github.com/stavhir
