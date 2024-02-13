@@ -1,4 +1,4 @@
-# Project
+# Generating matched patient pairs from an Excel database
 
 <small>By Golda Gross, Stav Hirshenzon and Doreen Padan<small>
 
